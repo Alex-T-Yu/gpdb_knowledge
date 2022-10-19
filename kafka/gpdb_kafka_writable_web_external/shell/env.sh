@@ -1,0 +1,8 @@
+
+# Input KAFKA Client path
+# ex) KAFKA_CLIENT_HOME=/data/kafka/kafka_2.13-2.8.0
+KAFKA_CLIENT_HOME=
+
+# Input KAFKA BROKER (End Point)
+# ex) KAFKA_DEFULT_BROKER=mdw:9092
+KAFKA_DEFULT_BROKER=
